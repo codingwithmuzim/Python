@@ -49,7 +49,17 @@ for item in l:
     if item not in k:
         k.append(item)
 print(k)
-write a program findout grater than 6 char. '''
+write a program findout grater than 6 char.
+l=['muzim','mujeebali','tomarsir','gauravsir', 19191919,10292872]
+k=[]
+for i in l:
+    if type(i) == str:
+        if len(i) > 6:
+            k.append(i)
+    elif type(i) == int and len(str(i)) > 6:
+        k.append(i)
+print(k)
+'''
 # write a program to findout prime number in list.
 
 l=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45]
