@@ -1,5 +1,5 @@
 comparison between two value, person or condition
-
+(Return boolean in the form of true or false)
 Operator         e.g          Name
   ==            x==y          Equal
   !=            x!=y        Not Equal
