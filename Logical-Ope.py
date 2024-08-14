@@ -15,3 +15,9 @@ a      b      a or b
 1      0         1
 0      1         1
 0      0         0
+
+Not Operator:--->Reverse the result (return true if the result is false)
+
+a    b
+1    0
+0    1
