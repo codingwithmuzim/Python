@@ -12,11 +12,11 @@ Bitwise Operator
 Operator         Description          Example
   &                AND                 x & y
   |                OR                  x | y
-  ^                XOR                 x ^ y      only one condition true than return true, if both are true than return false, if both are false than return false
+  ^                XOR                 x ^ y      only one condition true than return true, 
 
   XOR
   A        B        A ^ B
-  0        0          0       
+  0        0          0       if both are false than return false
   1        0          1
   0        1          1
   1        1          0
