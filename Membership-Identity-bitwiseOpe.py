@@ -19,4 +19,4 @@ Operator         Description          Example
   0        0          0       if both are false than return false
   1        0          1
   0        1          1
-  1        1          0
+  1        1          0       if both are true than return false
