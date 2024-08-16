@@ -1,4 +1,3 @@
-data_types = [
     "int",        # Integer, e.g., 5, 100, -23
     "float",      # Floating point number, e.g., 3.14, -0.001
     "str",        # String, e.g., "hello", 'Python'
@@ -13,5 +12,5 @@ data_types = [
     "bytearray",  # Bytearray, e.g., bytearray(5)
     "range",      # Range, e.g., range(5)
     "frozenset",  # Frozen set, e.g., frozenset({1, 2, 3})
-]
+
 
