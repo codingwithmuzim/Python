@@ -6,4 +6,4 @@
 
 a= int(input("enter the value 1"))   //  integer 1,2,4 
 a= floot(input("enter the value 1")) //  floot 2.3221, 1.32
-
+b= eval(input("enter the value 1"))  //  all consider integer and floot 
